@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+body {
+    margin: 0;
+}
+
+main {
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: justify;
+    width: 800px;
+    margin: auto;
+}
+
+h1 {
+    font-size: 28px;
+    text-align: center;
+}
+
+h2 {
+    font-size: 25px;
+}
+
+
+a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: black;
+}
+
+footer {
+    background-color: rgb(92, 91, 91);
+    height: 30px;
+    color: white;
+    text-align: center;
+}
+
+footer > p {
+    padding-top: 7px;
+}
+
+.link-rodape {
+    color: white;
+    font-weight: bolder;
+
+}
